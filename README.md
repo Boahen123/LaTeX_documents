@@ -10,4 +10,5 @@ TeXStudio &rarr; *[TeXStudio](https://www.texstudio.org/)*
 
 Overleaf &rarr;  *[Overleaf](https://www.overleaf.com/)*
 
-MikTex &rarr; *[MikTex](https://miktex.org/)*
+MikTex &rarr; <a href="https://miktex.org/" target="_blank"><i>MikTeX</i></a>
+
