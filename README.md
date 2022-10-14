@@ -9,7 +9,22 @@ Overleaf is a very good learning platform if you want to get started using LaTeX
 
 TeXStudio &rarr; *[TeXStudio](https://www.texstudio.org/)*
 
+MikTex &rarr; <a href="https://miktex.org/" target="_blank"><i>MikTeX</i></a>
+
+# Compiling LaTeX in VS code
+
+VS code is mostly used amongst developers. 
+
+- Download and install *MikTeX*
+- Install the LaTeX Workshop extension on the VS code marketplace by James Yu.
+- Download and install *Strawberry Perl* form their official website. <br> Strawberry Perl &rarr;  *[Perl](https://strawberryperl.com/)*
+- LaTeX document is now ready to be compiled in VS code
+
+# Get started learning LaTeX 
+
+![The Overleaf logo!](images/overleaf.png "Overleaf logo")
+
+Overleaf is a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. <br> Overleaf offers comprehensive and free tutorials on their official website. It has an omline compiler for convenience. Check it out! <br/>
 Overleaf &rarr;  *[Overleaf](https://www.overleaf.com/)*
 
-MikTex &rarr; <a href="https://miktex.org/" target="_blank"><i>MikTeX</i></a>
 
