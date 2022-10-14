@@ -1,5 +1,6 @@
 # *LaTeX* Documents
 
+![The LaTeX logo!](https://brandslogos.com/wp-content/uploads/images/latex-logo-vector.svg)
 LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. These are some LaTeX documents I prepared for my school assignments and personal learning. 
 
 Personally, I make use of TeXStudio to prepare my LaTeX documents. It is a requirement to get a compiler to compile LaTeX code. I personally use MikTex for this purpose.
